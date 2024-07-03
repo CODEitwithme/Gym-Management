@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../DBMS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
